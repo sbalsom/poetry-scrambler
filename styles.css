@@ -1,0 +1,28 @@
+body {
+ background-color:#DFC99C;
+ padding: 20px;
+ font-family: Arial;
+}
+
+h1 {
+  color: #6D99B4;
+  text-align: center;
+
+}
+
+#poem {
+  background-color: #d0e0ea;
+  border-radius: 10px;
+  padding: 20px;
+  color: #2f3934;
+}
+
+#scrambler {
+  border-radius: 10px;
+  border: none;
+  padding: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
+  float: right;
+  color: #6D99B4;
+}
